@@ -7,10 +7,10 @@ Pavan Kumar A
 Tanisha Mandal
 
 # Libraries used:
->Tensorflow
->Keras
->Flask
->Numpy
+>>Tensorflow
+>>Keras
+>>Flask
+>>Numpy
 
 # Tools used:
 >Anaconda Prompt
