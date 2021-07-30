@@ -6,19 +6,19 @@ Jithaamithran S
 Pavan Kumar A
 Tanisha Mandal
 
-#Libraries used:
+# Libraries used:
 >Tensorflow
 >Keras
 >Flask
 >Numpy
 
-#Tools used:
+# Tools used:
 >Anaconda Prompt
 >Spyder
 >Jupyter Notebook
 >IBM cloud
 
-#Languages for Front-end:
+# Languages for Front-end:
 >HTML
 >CSS
 
