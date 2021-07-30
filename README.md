@@ -5,7 +5,13 @@ An Automated Essay Grading System(using LSTM and Flask Integration) with helpful
 - Jithaamithran S
 - Pavan Kumar A
 - Tanisha Mandal
+## DEMO VIDEO:
+[DEMO VIDEO FOR AUTOMATED GRADING SYSTEM]
+(https://drive.google.com/drive/folders/1ut0dPHiLo37X0kTQIN5pY6iYZy02KpUB?usp=sharing)
 
+## Feedback Video:
+[Feedback video - Ashutosh Pandey]
+(https://drive.google.com/drive/folders/1yAYxipRH-eJBhQvvdavKsfcz4n1qQTRt?usp=sharing)
 ## Libraries used:
 - Tensorflow
 - Keras
